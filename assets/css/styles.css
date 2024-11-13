@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto';
+}
+
+h3 {
+    color: #28a745;
+}
+.navbar-primary {
+    background-color: #28a745;
+}
+
+.cupon1 {
+    background-image: url('../img/cupon-1.jpg');
+}
+
+.cupon2 {
+    background-image: url('../img/cupon-2.jpg');
+}
+
+.cupon3 {
+    background-image: url('../img/cupon-3.jpg');
+}
+
+.cupon4 {
+    background-image: url('../img/cupon-4.jpg');
+}
+
+.cupon5 {
+    background-image: url('../img/cupon-5.jpg');
+}
+
+.cupon6 {
+    background-image: url('../img/cupon-6.jpg');
+}
+
+.mis-trabajos {
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#cup1 {
+    font-weight: 300;
+}
+
+.card-body p {
+    font-weight: 300;
+    color: #707070;
+}
+
+#contacto {
+    background-color: #28a745;
+}
